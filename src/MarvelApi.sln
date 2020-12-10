@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30611.23
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MarvelApi", "MarvelApi\MarvelApi.csproj", "{79398AAD-3173-45D0-884F-C25042C13DFE}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MarvelApi.Test", "MarvelApi.Test\MarvelApi.Test.csproj", "{55187297-0508-4848-9909-1713E17D69CF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{79398AAD-3173-45D0-884F-C25042C13DFE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{79398AAD-3173-45D0-884F-C25042C13DFE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{79398AAD-3173-45D0-884F-C25042C13DFE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{79398AAD-3173-45D0-884F-C25042C13DFE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{55187297-0508-4848-9909-1713E17D69CF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{55187297-0508-4848-9909-1713E17D69CF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{55187297-0508-4848-9909-1713E17D69CF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{55187297-0508-4848-9909-1713E17D69CF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4ED85C85-F32A-4DC1-BAB0-999F4A68BCD8}
+	EndGlobalSection
+EndGlobal
